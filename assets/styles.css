@@ -26,7 +26,7 @@ h4 {
 a {
   color: #f7a8ae;
   text-decoration-color: #f7a8ae;
-  text-decoration-style: wavy;
+  /* text-decoration-style: wavy; */
 }
 .container {
   max-width: 600px;
